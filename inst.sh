@@ -6,7 +6,7 @@
 WHAT=$1
 
 # libraries that are dependencies (and independent of each other)
-LDEPS="eastl cppformat"
+LDEPS="" #eastl cppformat"
 
 ALL="$LDEPS"
 
